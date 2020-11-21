@@ -18,7 +18,7 @@ import time                         # Mengimport time
                                                             # GUI Layout
 root = Tk()                                                                 # Mengisi variabel root dengan TK() dari tkinter                
 root.geometry("500x500")                                                    # Mengatur ukuran window GUI sebesar 500x500
-root.iconbitmap("D:\Coding\Python\Matrix Calculator\matrix.ico")   # Memberi icon pada GUI yang diambil dari folder
+root.iconbitmap("D:\Coding\Python\Tkinter Project\Matrix Calculator\matrix.ico")   # Memberi icon pada GUI yang diambil dari folder
 root.title("Mochammad Arya Salsabila / 19081010001")                        # Mengatur title GUI yang terletak dikanan icon
 root.configure(bg = "#474E64")                                              # Memberi warna background GUI
 
