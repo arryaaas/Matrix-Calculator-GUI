@@ -11,7 +11,7 @@ Matrix Calculator GUI adalah aplikasi desktop untuk menghitung penjumlahan, peng
 
 ## Instalasi
 
-Gunakan pengelola paket [pip] (https://pip.pypa.io/en/stable/) untuk menginstal numpy.
+Gunakan pengelola paket [pip](https://pip.pypa.io/en/stable/) untuk menginstal numpy.
 
 ```bash
 pip install numpy
