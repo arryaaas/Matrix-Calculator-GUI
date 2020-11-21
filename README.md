@@ -1,16 +1,23 @@
 # Matrix-Calculator-GUI
 
-Matrix Calculator GUI is a desktop application for calculating addition, subtraction, multiplication, scalar multiplication and determinant of a matrix. This application is made using Python Programming Language.
+Matrix Calculator GUI adalah aplikasi desktop untuk menghitung penjumlahan, pengurangan, perkalian, perkalian skalar dan determinan sebuah matriks. Aplikasi ini dibuat dengan menggunakan Bahasa Pemrograman Python.
 
-## Installation
+## Pratinjau Aplikasi
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numpy.
+<p>
+<img width="400px" src="https://github.com/arryaaas/Matrix-Calculator-GUI/blob/master/image-2.png"/>
+<img width="400px" src="https://github.com/arryaaas/Matrix-Calculator-GUI/blob/master/image-1.png"/>
+</p>
+
+## Instalasi
+
+Gunakan pengelola paket [pip] (https://pip.pypa.io/en/stable/) untuk menginstal numpy.
 
 ```bash
 pip install numpy
 ```
 
-## Usage
+## Pemakaian NumPy
 
 ```python
 import numpy as np
@@ -23,14 +30,18 @@ matrix_determinant = np.linalg.det(matrix_a)
 ```
 
 ## Libraries
-- [Tkinter](https://docs.python.org/3/library/tkinter.html) is a Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI. Tkinter is included with standard Linux, Microsoft Windows and Mac OS X installs of Python. The name Tkinter comes from Tk interface.
-- [NumPy](https://numpy.org/) is a python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices. NumPy was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely. NumPy stands for Numerical Python.
-- [Time](https://docs.python.org/3/library/time.html), The Python time module provides many ways of representing time in code, such as objects, numbers, and strings. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) adalah Python yang mengikat toolkit Tk GUI. Ini adalah antarmuka Python standar ke toolkit Tk GUI, dan GUI standar de facto Python. Tkinter disertakan dengan instalasi Python standar Linux, Microsoft Windows dan Mac OS X. Nama Tkinter berasal dari antarmuka Tk.
+- [NumPy](https://numpy.org/) adalah pustaka python yang digunakan untuk bekerja dengan array. Ia juga memiliki fungsi untuk bekerja dalam domain aljabar linier, transformasi fourier, dan matriks. NumPy dibuat pada tahun 2005 oleh Travis Oliphant. Ini adalah proyek open source dan Anda dapat menggunakannya dengan bebas. NumPy adalah singkatan dari Numerical Python.
+- [Time](https://docs.python.org/3/library/time.html), Modul waktu Python menyediakan banyak cara untuk merepresentasikan waktu dalam kode, seperti objek, angka, dan string. Ini juga menyediakan fungsionalitas selain mewakili waktu, seperti menunggu selama eksekusi kode dan mengukur efisiensi kode Anda.
 
-## License
+## Video Penjelasan 
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Video penjelasan tentang Metode Secant dan Demo Programnya dapat dilihat [disini](https://youtu.be/DQyrIqbD0L0).
 
-## Contact
+## Lisensi
+
+Didistribusikan di bawah Lisensi MIT. Lihat `LISENSI` untuk informasi lebih lanjut.
+
+## Kontak
 
 Mochammad Arya Salsabila - Aryasalsabila789@gmail.com
