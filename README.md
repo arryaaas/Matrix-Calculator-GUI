@@ -36,7 +36,7 @@ matrix_determinant = np.linalg.det(matrix_a)
 
 ## Video Penjelasan 
 
-Video penjelasan tentang Operasi Matrix dan Demo Programnya dapat dilihat [disini](https://youtu.be/DQyrIqbD0L0).
+Video penjelasan tentang Matrix Calculator GUI (Operasi Matriks) dan Demo Programnya dapat dilihat [disini](https://youtu.be/DQyrIqbD0L0).
 
 ## Lisensi
 
