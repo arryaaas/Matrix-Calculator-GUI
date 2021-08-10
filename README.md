@@ -5,8 +5,8 @@ Matrix Calculator GUI adalah aplikasi desktop untuk menghitung penjumlahan, peng
 ## Pratinjau Aplikasi
 
 <p>
-<img width="400px" src="https://github.com/arryaaas/Matrix-Calculator-GUI/blob/master/image-2.png"/>
-<img width="400px" src="https://github.com/arryaaas/Matrix-Calculator-GUI/blob/master/image-1.png"/>
+<img width="400px" src="https://github.com/arryaaas/Matrix-Calculator-GUI/blob/master/images/image-2.png"/>
+<img width="400px" src="https://github.com/arryaaas/Matrix-Calculator-GUI/blob/master/images/image-1.png"/>
 </p>
 
 ## Instalasi
