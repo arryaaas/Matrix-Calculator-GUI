@@ -5,7 +5,6 @@
     Tanggal Pembuatan   : 25 Februari 2020 
     Judul Program       : "Program Operasi Matriks" 
     Versi               : Python 3.8.0 
-    Nama File           : UTS ALIN - KELAS D - 19081010001 - MOCHAMMAD ARYA SALSABILA 
                                                                                         """
 
 # ======================================================================================================================================================================
